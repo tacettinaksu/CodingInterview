@@ -1,6 +1,6 @@
 package arrays.strings;
 
-import cci.commons.Utils;
+import commons.Utils;
 
 /**
  * 

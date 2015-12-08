@@ -1,6 +1,6 @@
 package linked.lists;
 
-import cci.commons.LinkedListNode;
+import commons.LinkedListNode;
 
 /**
  * 

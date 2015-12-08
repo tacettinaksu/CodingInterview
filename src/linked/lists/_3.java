@@ -1,7 +1,7 @@
 package linked.lists;
 
-import cci.commons.LinkedListUtils;
-import cci.commons.LinkedListNode;
+import commons.LinkedListNode;
+import commons.LinkedListUtils;
 
 /**
  * 
